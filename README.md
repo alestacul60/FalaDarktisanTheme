@@ -38,11 +38,11 @@ Fala Darktisan Theme es un tema oscuro para Visual Studio Code, diseñado para o
 > A continuación se presentan algunas capturas que muestran el tema en acción para diferentes lenguajes y escenarios comunes:
 
 ### PHP - Variables y funciones destacadas
-![PHP Example](./images/php-example.png)
+![PHP Example](https://github.com/alestacul60/FalaDarktisanTheme/blob/main/images/php-example.png)
 
 ### React - Componentes y hooks resaltados
-![React Example](./images/react-example.png)
+![React Example](https://github.com/alestacul60/FalaDarktisanTheme/blob/main/images/react-example.png)
 
 ### Blade Template Syntax
-![Blade Example](./images/blade-example.png)
+![Blade Example](https://github.com/alestacul60/FalaDarktisanTheme/blob/main/images/blade-example.png)
 
